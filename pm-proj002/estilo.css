@@ -1,0 +1,76 @@
+*
+{
+margin: 0;
+padding:0;
+}
+ 
+
+
+body{
+      
+    background-color:#e6e6e6;
+    font-family: "Open Sans";
+    padding: 12px;
+    
+}
+
+
+.card{
+    background-color: white;
+    border-style:outset; 
+    width: 300px;
+    height: 350px;
+    border-radius:  0px 0px 10px 10px;
+        
+}
+
+
+.russia{
+    
+    width: 255px;
+    font-size: 14px;
+    height: 16px;
+    text-transform: uppercase;
+    padding: 10px;
+    margin-bottom: px;       
+}
+
+.nome{
+    color: #333333;
+    font-weight: bold;
+}
+.quando{
+    color: #999999;
+    font-size: 12px;
+    margin-left: 12px;
+}
+
+
+.titulo{
+    
+    width: 295px;
+    font-size: 15px;
+    height: 54px;
+    margin-bottom: px;
+    line-height: 22px;
+    padding: 10px
+    
+}
+
+.titulo a {
+     
+    text-decoration: none;
+    color: #b5000d;
+    }
+    
+
+.subtitulo{
+    
+    font: 
+    width: 283px;
+    color: #333333;
+    font-size: 14px;
+    height: 32px;
+    margin-bottom: px;
+    padding: 10px
+}

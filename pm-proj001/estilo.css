@@ -1,0 +1,39 @@
+*
+{
+margin: 0;
+padding:0;
+}
+
+body{
+    background-color:#ecf0f1;
+    color: white;
+    font-family: arial;
+    font-size: 18px;
+    padding: 12px;
+}
+
+.titulo2{
+    font-variant-caps: all-petite-caps;
+    color: black;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.titulo{
+    
+    color: black;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.caixa {
+    
+    background-color: #9b59b6;
+    margin-bottom: 12px;
+    padding: 12px;
+        
+    
+}
